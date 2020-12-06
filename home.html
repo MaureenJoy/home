@@ -15,7 +15,7 @@
             <li><a href="https://my117mj.herokuapp.com/" style="color: #000000">HOME</a>  </li>
             <li><a href="product.html"style="color: #000000">PRODUCTS</a>  </li>
             <li><a href="https://my117about.herokuapp.com/" style="color: #000000">ABOUT</a>  </li>
-            <li><a href="contact.html" style="color: #000000">CONTACT US</a>    </li>
+            <li><a href="https://my117contact.herokuapp.com/" style="color: #000000">CONTACT US</a>    </li>
           </ul>
 </nav>
       <div class="search">
